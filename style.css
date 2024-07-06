@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Winter Poppins';
+    src: url(./Winter\ Poppins\ .ttf);
+}
+
+h1 {
+    font-family: 'Winter Poppins';
+    font-weight: 100;
+}
